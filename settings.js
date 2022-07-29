@@ -26,9 +26,9 @@ global.owner = ['94786746412'] //your owner number
 global.premium = ['94786746412'] //your Owner number in menu msg
 global.ownernomer = '94786746412' //your owner number info
 
-global.ownername = 'Ishan Sandeepa' //your owner name
-global.botname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
-global.footer = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' 
+global.ownername = '᳆⃟⚖️кιηg 𝙸𝚂𝙸𝚁𝙰හ්᭄⚖️' //your owner name
+global.botname = 'Ⴆʅαƈƙ Ⴆσƚ' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
+global.footer = 'Ⴆʅαƈƙ Ⴆσƚ' 
 
 global.ig = 'https://github.com/ishansandeepa757' //Github Account!
 global.region = 'Sri Lanka'
